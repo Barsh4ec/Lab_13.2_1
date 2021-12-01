@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(26,21): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(26,21): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(28,21): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(28,21): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(30,21): warning C4474: 'scanf_s' : too many arguments passed for format string
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(30,21): message : placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(54,2): error C2562: 'main': 'void' function returning a value
+C:\Users\User\source\repos\Lab_13.2 part 1\Lab_13.2 part 1\Source.cpp(16): message : see declaration of 'main'
